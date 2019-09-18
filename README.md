@@ -2,7 +2,7 @@
 
 ScreenShot (iPad Pro 12.9 inch)
 
-<img src="https://raw.githubusercontent.com/tomoyukimizuma/cocos2d-x-imgui-ios-android/media/iPad_example.png" alt="iPad Pro 12.9 inch ScreenShot" width="50%" height="50%"/>
+<img src="https://raw.githubusercontent.com/tomoyukimizuma/cocos2d-x-imgui-ios-android/media/iPad_example.png" alt="iPad Pro 12.9 inch ScreenShot"/>
 
 "CCIMGUI.cpp" and "CCImGuiLayer.cpp" <-- from [Xrysnow/cocos2d-x-imgui](https://github.com/Xrysnow/cocos2d-x-imgui) (modified a little)
 
