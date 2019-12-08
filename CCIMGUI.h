@@ -6,6 +6,7 @@ class CCIMGUI
     void init();
 public:
     static CCIMGUI* getInstance();
+    static void cleanup();
     void update();
     void addCallback(const std::function<void()>& callBack, const std::string& name);
     void removeCallback(const std::string& name);
